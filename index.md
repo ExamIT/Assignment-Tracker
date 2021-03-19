@@ -31,5 +31,5 @@ If you hanve any Questions please contact us!
 
 ### Support or Contact
 
-Any Feedback? Check out our [Twitter](https://twitter.coom/ExamIT_App) or contact us directly at ExamIT@outlook.com. We are happy to hear from you!
+Any Feedback? Check out our [Twitter](http://twitter.com/ExamIT_App) or contact us directly at ExamIT@outlook.com. We are happy to hear from you!
 
