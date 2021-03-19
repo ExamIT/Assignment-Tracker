@@ -13,6 +13,10 @@ You can create an Assignment and divide it into Subtasks.
 - Furthermore you can see the state of each Assignment at a glance.
 The overview will give you information about what Assignments are heaviest in comparison.
 
+- be notified on the due date 
+- share assignments 
+- use tags to further organize
+
 
 ### Support or Contact
 
